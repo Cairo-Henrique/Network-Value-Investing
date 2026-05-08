@@ -9,8 +9,8 @@ A quantitative investment framework that combines **Network Science** with **Val
 
 ## **2. Notebooks**
 
-1. **`Portfolio_Optimization_with_PMFG_and_Sharpe.ipynb`**: Handles topological filtering, centrality analysis, and robust portfolio weighting (Max Sharpe).
-2. **`Value_Investing_Financial_indicators_Tool.ipynb`**: Performs multi-KPI scoring and intrinsic valuation using Benjamin Graham's principles.
+1. **`Portfolio_Optimization_with_PMFG_and_Sharpe.ipynb`**: Handles topological filtering, centrality analysis, and Markowitz optimization.
+2. **`Value_Investing_Financial_indicators_Tool.ipynb`**: Performs multi-KPI scoring and intrinsic valuation using value investing principles.
 
 ## **3. Quick Start**
 
